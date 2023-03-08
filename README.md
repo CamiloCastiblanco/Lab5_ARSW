@@ -3,6 +3,10 @@
 ### Arquitecturas de Software
 
 
+#### Integrantes:
+
+- Francisco Marquez
+- Camilo Castiblanco
 
 #### API REST para la gestión de planos.
 
